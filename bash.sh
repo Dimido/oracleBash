@@ -19,7 +19,7 @@ else
         return 0
     else
         echo "fichier vide"
-        return 0
+        return 1
     fi
     
 fi
